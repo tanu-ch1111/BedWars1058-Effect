@@ -1,0 +1,9 @@
+name: BedWars1058-Effect
+version: '${project.version}'
+main: com.andrei1058.bedwars1058.Effect.Main
+authors: [Tanudayo]
+softdepend: [BedWars1058]
+commands:
+  effect:
+    description: Open the BedWars1058 Effect GUI.
+    usage: /<command>
